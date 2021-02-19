@@ -1,6 +1,6 @@
 ﻿using System.Configuration;
 
-namespace ToolsQA1.Framework.Settings
+namespace ToolsQA1.Framework
 {
     public static class Settings
     {
